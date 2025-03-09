@@ -17,7 +17,8 @@ This is a simple *YouTube Clone UI* built using *HTML* and *CSS. It is a static 
 │── style.css   # Stylesheet (CSS)
 ```
 ## 📸 Screenshot  
-(Add a screenshot of your project here)  
+![yotube project](https://github.com/user-attachments/assets/c0920db1-8efc-4d3a-aebb-fed05ae2ecc3)
+
 
 ## 🛠 Technologies Used  
 - *HTML5*  
