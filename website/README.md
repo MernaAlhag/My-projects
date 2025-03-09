@@ -23,7 +23,7 @@ Welcome to my personal website! This site showcases the services I offer, the pr
 
 ## 🌍 Live Website  
 
-Check out my website here: [Insert your website link]  
+Check out my website here: [website]  
 
 ---
 
