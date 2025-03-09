@@ -21,12 +21,6 @@ Welcome to my personal website! This site showcases the services I offer, the pr
 
 ---
 
-## 🌍 Live Website  
-
-Check out my website here: [website]  
-
----
-
 ## 📬 Contact Me  
 
 📧 Email: [mernaalhag89@gmail.com]  
